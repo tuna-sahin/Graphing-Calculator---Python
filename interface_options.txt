@@ -1,0 +1,8 @@
+Starter = -10.0
+Bound = 10.0
+Detail = 50
+Legend = on
+Offset Position = (0.0, 0.0)
+Directory = C:/Users/Sahin/Documents/python/math main/graphs
+Save Size = 16.0
+Vertical Asymptotes = off
